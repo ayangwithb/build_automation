@@ -28,3 +28,4 @@ python-docx >= 1.2.0
 statsmodels
 pyyaml
 python-git
+GitPython
