@@ -1,1 +1,2 @@
-pip install --no-index --find-links=. 패키지명
+python -m pip install --no-index --find-links="./" -r requirements.txt
+ python -m pip install --no-index --find-links="./" 패키지파일명.확장자
