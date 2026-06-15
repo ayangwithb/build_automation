@@ -1,0 +1,29 @@
+pylint 
+beautifulsoup4 
+xlrd 
+openpyxl 
+pandas
+requests
+atlassian-python-api >= 4.0.7
+jira
+numpy
+matplotlib
+logging
+Dash
+Pillow
+colorama >= 0.4.6
+jmespath >= 1.1.0
+idna
+pydantic
+markdown
+emoji
+qrcode
+nltk
+flashtext
+Scrapy
+pyinstaller >= 6.21.0
+xlwings >= 0.36.4
+python-pptx
+python-docx >= 1.2.0
+statsmodels
+pyyaml
